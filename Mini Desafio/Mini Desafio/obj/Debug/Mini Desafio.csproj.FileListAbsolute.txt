@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Desktop\Nova pasta\Mini Desafio\Mini Desafio\bin\Debug\Mini Desafio.exe.config
+C:\Users\Utilizador\Desktop\Nova pasta\Mini Desafio\Mini Desafio\bin\Debug\Mini Desafio.exe
+C:\Users\Utilizador\Desktop\Nova pasta\Mini Desafio\Mini Desafio\bin\Debug\Mini Desafio.pdb
+C:\Users\Utilizador\Desktop\Nova pasta\Mini Desafio\Mini Desafio\obj\Debug\Mini Desafio.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Nova pasta\Mini Desafio\Mini Desafio\obj\Debug\Mini Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Nova pasta\Mini Desafio\Mini Desafio\obj\Debug\Mini Desafio.exe
+C:\Users\Utilizador\Desktop\Nova pasta\Mini Desafio\Mini Desafio\obj\Debug\Mini Desafio.pdb
